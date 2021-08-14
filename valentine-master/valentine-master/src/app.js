@@ -22,7 +22,7 @@ const isPc = (function () {
 export default class App extends React.Component {
 
     fullStyle = [
-        `/*
+        /*
 * Hi：西瓜馅葡萄
 * 这么久了。还没和说过我的工作
 * 我是个SRE工程师。俗称程序员。
